@@ -1,0 +1,15 @@
+The flash php framework is not perfect, any item need to fix as below :
+
+1、Route function
+include normal url 、pathinfo、hide index.php and background url and so on...
+
+
+2、PDO
+
+
+3、Background framework Example: Jquery easy UI or bootstrap or Jquery UI
+
+
+
+Question:
+1、 why do not find $_GET data when RE_URL = 2
