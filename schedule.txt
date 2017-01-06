@@ -13,3 +13,7 @@ include normal url 、pathinfo、hide index.php and background url and so on...
 
 Question:
 1、 why do not find $_GET data when RE_URL = 2
+
+
+
+test github
